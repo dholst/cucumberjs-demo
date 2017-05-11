@@ -1,0 +1,11 @@
+{
+  "name": "cucumberjs-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "2.0.0-rc.9"
+  }
+}
